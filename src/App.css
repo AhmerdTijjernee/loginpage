@@ -1,0 +1,16 @@
+@font-face {
+    font-family: PTSerifRegular;
+    src: url("../public/Fonts/PTSerifRegular.ttf");
+}
+@font-face {
+    font-family: PTSerifItalic;
+    src: url("../public/Fonts/PTSerifItalic.ttf");
+}
+@font-face {
+    font-family: DMSerifRegular;
+    src: url("../public/Fonts/DMSerifRegular.ttf");
+}
+@font-face {
+    font-family: DMSerifItalic;
+    src: url("../public/Fonts/DMSerifItalic.ttf");
+}
